@@ -1,4 +1,4 @@
-# Automated Theorem Generator △1
+# Automated Theorem Generator △2
 
   
 
@@ -38,7 +38,7 @@ It can automatically generate theorems from logical literals or formulas provide
 
   
 
-- **Δ1 Version**: The **Automated Theorem Generator** is a tool based on the _Triangle Standard Contradiction Separation_.
+- **Δ2 Version**: The **Automated Theorem Generator Δ2** is a tool based on the _Triangle Standard Contradiction Separation_, which differs from the reasoning of Δ1.
 
   
 
