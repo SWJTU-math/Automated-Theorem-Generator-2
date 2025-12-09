@@ -367,6 +367,12 @@ p(a);![Y]: q(Y) => r(Y);?[Z]: s(Z) | t(Z)
 
   
 
+4. **No Complementary Sub-formulas**
+
+- Invalid: `(Formulas_1 | ~Formulas_1) & ~Formulas_1`
+
+- Valid: `(Formulas_1 | ~Formulas_2) & ~Formulas_3`
+  
 ---
 
   
